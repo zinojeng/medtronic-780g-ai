@@ -7,6 +7,9 @@
 - [x] 與 Libre / LINE 整合架構草案
 
 ## Phase 1 — CareLink 與 Libre 資料
+- [x] Guardian Monitor → Nightscout 唯讀 SGV adapter / 單元測試（僅程式碼，未實測連線）
+- [ ] 確認 App 已登入且 Nightscout 同步已啟用、取得自有站點網址
+- [ ] 比對 Nightscout SGV 與 Guardian Monitor 真實資料新鮮度及缺漏
 - [ ] 取得合法授權、去識別化的 CareLink 780G 匯出
 - [ ] 比對 CSV 與 aidR / CareLink 官方報告
 - [ ] 在受控環境測試 patient 登入、MFA、台灣地域相容性
